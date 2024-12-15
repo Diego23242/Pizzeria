@@ -12,9 +12,9 @@ date_default_timezone_set('America/Mexico_City');
 
 // Crear la conexión a la base de datos
 $servername = "localhost";
-$username = "root";
-$password = "root";
-$database = "login_system";
+$username = "u603711275_azte";
+$password = "Electrote1234";
+$database = "u603711275_login_system";
 
 $conexion = new mysqli($servername, $username, $password, $database);
 
